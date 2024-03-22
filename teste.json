@@ -1,74 +1,17 @@
 [
   {
-    "nome": "Loja 1",
-    "descricao": "Descrição da Loja 1",
-    "endereco": "Endereço da Loja 1",
-    "telefone": "Telefone da Loja 1",
-    "horarioFuncionamento": {
-      "segunda": {
-        "abertura": "08:00",
-        "fechamento": "18:00"
-      },
-      "terca": {
-        "abertura": "08:00",
-        "fechamento": "18:00"
-      },
-      "quarta": {
-        "abertura": "08:00",
-        "fechamento": "18:00"
-      },
-      "quinta": {
-        "abertura": "08:00",
-        "fechamento": "18:00"
-      },
-      "sexta": {
-        "abertura": "08:00",
-        "fechamento": "18:00"
-      },
-      "sabado": {
-        "abertura": "08:00",
-        "fechamento": "12:00"
-      },
-      "domingo": {
-        "abertura": "Não Abre",
-        "fechamento": "Não Abre"
-      }
-    }
+    "nome": "Loja A",
+    "descricao": "Descrição da Loja A",
+    "imagem": "https://atualsd.netlify.app/logosd.jpg"
   },
   {
-    "nome": "Loja 2",
-    "descricao": "Descrição da Loja 2",
-    "endereco": "Endereço da Loja 2",
-    "telefone": "Telefone da Loja 2",
-    "horarioFuncionamento": {
-      "segunda": {
-        "abertura": "09:00",
-        "fechamento": "19:00"
-      },
-      "terca": {
-        "abertura": "09:00",
-        "fechamento": "19:00"
-      },
-      "quarta": {
-        "abertura": "09:00",
-        "fechamento": "19:00"
-      },
-      "quinta": {
-        "abertura": "09:00",
-        "fechamento": "19:00"
-      },
-      "sexta": {
-        "abertura": "09:00",
-        "fechamento": "19:00"
-      },
-      "sabado": {
-        "abertura": "10:00",
-        "fechamento": "14:00"
-      },
-      "domingo": {
-        "abertura": "Não Abre",
-        "fechamento": "Não Abre"
-      }
-    }
+    "nome": "Loja B",
+    "descricao": "Descrição da Loja B",
+    "imagem": "https://atualsd.netlify.app/logosd.jpg"
+  },
+  {
+    "nome": "Loja C",
+    "descricao": "Descrição da Loja C",
+    "imagem": "https://atualsd.netlify.app/logosd.jpg"
   }
 ]
