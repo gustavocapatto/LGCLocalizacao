@@ -1,0 +1,17 @@
+[
+  {
+    "nome": "Loja A",
+    "descricao": "Descrição da Loja A",
+    "imagem": "https://atualsd.netlify.app/logosd.jpg"
+  },
+  {
+    "nome": "Loja B",
+    "descricao": "Descrição da Loja B",
+    "imagem": "https://atualsd.netlify.app/logosd.jpg"
+  },
+  {
+    "nome": "Loja C",
+    "descricao": "Descrição da Loja C",
+    "imagem": "https://atualsd.netlify.app/logosd.jpg"
+  }
+]
