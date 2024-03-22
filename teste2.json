@@ -1,17 +1,20 @@
 [
   {
+    "id": 1,
     "nome": "Loja A",
     "descricao": "Descrição da Loja A",
-    "imagem": "https://atualsd.netlify.app/logosd.jpg"
+    "imagem": "https://exemplo.com/imagem1.jpg"
   },
   {
+    "id": 2,
     "nome": "Loja B",
     "descricao": "Descrição da Loja B",
-    "imagem": "https://atualsd.netlify.app/logosd.jpg"
+    "imagem": "https://exemplo.com/imagem2.jpg"
   },
   {
+    "id": 3,
     "nome": "Loja C",
     "descricao": "Descrição da Loja C",
-    "imagem": "https://atualsd.netlify.app/logosd.jpg"
+    "imagem": "https://exemplo.com/imagem3.jpg"
   }
 ]
